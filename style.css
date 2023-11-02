@@ -1,0 +1,50 @@
+h1{
+    color: blue;
+    font-family: Brush Script MT;
+    font-size: 100px;
+}
+
+p{
+    color: red;
+    font-family: courier;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2{
+    color: purple;
+}
+
+.pilt{
+    box-shadow: 20px 20px 30px  red;
+    border-radius: 20%;
+}
+
+.tabel{
+    color: yellowgreen;
+    background-color: aquamarine;
+}
+
+.päis{
+    color: orange;
+    background-color: black;
+}
+
+body{
+    background-image: url(699057.png);
+}
+
+.allalaadimine{
+    background-color: orange;
+}
+
+ul{
+    color: black;
+    font-size: 120%;
+    background-color: orange;
+    width: 600px;
+}
+
+
+
+
